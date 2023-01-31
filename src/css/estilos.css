@@ -54,14 +54,6 @@ body {
     text-align: justify;
 }
 
-.container .detalhes {
-    color: #a8adb7;
-    width: 85%;
-    font-size: 18px;
-    margin: 30px 0px;
-    text-align: justify;
-}
-
 .container .botao-trailer {
     background-color: #ff0021;
     color: #ffffff;
@@ -152,28 +144,4 @@ body {
     opacity: 1;
     visibility: visible;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
