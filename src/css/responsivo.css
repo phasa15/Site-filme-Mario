@@ -1,0 +1,126 @@
+@media (min-width: 650px) {
+
+    .modal #video {
+        width: 70%;
+        height: 90%;
+    }
+
+}
+
+
+@media (max-width: 1200px) {
+
+    body {
+        background: rgb(9, 0, 130);
+        background: linear-gradient(90deg, rgba(9, 0, 130, 1) 0%, rgba(17, 4, 196, 0.8) 50%, rgba(9, 0, 130, 1) 100%);
+    }
+
+    .fundo-video {
+        display: none;
+    }
+
+    .container {
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+        gap: 30px;
+    }
+
+    .container .mario {
+        max-width: 80%;
+    }
+
+    .container .informacoes {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .container .discricao {
+        color: #a8adb7;
+        width: 85%;
+        font-size: 18px;
+        margin: 30px 0px;
+    }
+
+    .modal #video {
+        width: 90%;
+        height: 60%;
+    }
+
+
+
+}
+
+@media (max-width: 650px) {
+
+    .modal #video {
+        width: 90%;
+        height: 50%;
+    }
+
+}
+
+@media (max-width: 550px) {
+
+    .modal #video {
+        width: 90%;
+        height: 40%;
+    }
+
+}
+
+
+@media (max-width: 450px) {
+
+    .cabecalho {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .container .imagem-titulo {
+        max-width: 100%;
+    }
+
+    .modal .fechar-modal {
+        width: 30px;
+        line-height: 30px;
+    }
+
+    .modal #video {
+        width: 90%;
+        height: 30%;
+    }
+
+}
+
+@media (max-width: 400px) {
+    .modal #video {
+        width: 90%;
+        height: 35%;
+    }
+
+}
+
+@media (max-width: 300px) {
+    .modal #video {
+        width: 90%;
+        height: 40%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
