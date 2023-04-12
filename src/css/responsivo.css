@@ -82,7 +82,7 @@
 @media (max-width: 530px) {
 
     .container .nome-filme {
-        font-size: 25px;
+        font-size: 23px;
     }
     
     .container .ano-classificacao-genero{
@@ -101,6 +101,14 @@
 
     .container .imagem-titulo {
         max-width: 100%;
+    }
+    
+    .container .nome-filme {
+    font-size: 18px;
+    }
+    
+    .container .ano-classificacao-genero{
+    font-size: 12px;
     }
 
     .modal .fechar-modal {
