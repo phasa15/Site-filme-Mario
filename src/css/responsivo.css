@@ -61,6 +61,15 @@
 
 }
 
+@media (max-width: 610px) {
+
+
+    .container .nome-filme {
+        font-size: 30px;
+    }
+}
+
+
 @media (max-width: 550px) {
 
     .modal #video {
