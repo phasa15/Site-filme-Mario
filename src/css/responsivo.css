@@ -63,7 +63,6 @@
 
 @media (max-width: 610px) {
 
-
     .container .nome-filme {
         font-size: 30px;
     }
@@ -77,6 +76,18 @@
         height: 40%;
     }
 
+}
+
+
+@media (max-width: 530px) {
+
+    .container .nome-filme {
+        font-size: 25px;
+    }
+    
+    .container .ano-classificacao-genero{
+    font-size: 15px;
+    }
 }
 
 
